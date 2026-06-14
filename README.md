@@ -21,7 +21,7 @@ The passive assessment successfully identified 5 critical configuration oversigh
 5. Exposure of Public Management Ports:** Alternative service port `8080` left reachable via the open internet.
 
 📂 Deliverables Included
-* `Vulnerability_Assessment_Report_demo.testfire.net.pdf`: The complete, client-ready vulnerability assessment report.
+* `Vulnerability_Assessment_Report.pdf`: The complete, client-ready vulnerability assessment report.
 * `/screenshots`: Directory containing raw terminal outputs, OWASP ZAP alerts, and browser developer tool evidence captures.
 
 ---
