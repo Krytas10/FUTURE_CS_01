@@ -6,7 +6,7 @@ Passive Vulnerability Assessment and Security Baseline Report on demo.testfire.n
 📌 Project Overview
 This repository contains a professional, non-intrusive Passive Vulnerability Assessment Report conducted on the demonstration retail banking web application, Altoro Mutual (`demo.testfire.net`). The primary objective of this project was to analyze external network-layer visibility, server configuration behaviors, and client-side response configurations to establish a security baseline from a defensive perspective.
 
-🛠️ Tools & Technologies Used
+🛠️ Tools Used
 * Nmap: Passive network service enumeration and port visibility mapping.
 * OWASP ZAP: Automated passive analysis of traffic patterns and security misconfigurations.
 * Browser Developer Tools:** Manual inspection of HTTP response headers and transport properties.
